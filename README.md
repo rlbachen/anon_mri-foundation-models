@@ -1,1 +1,1 @@
-Anonymized Repository of https://github.com/rlbachen/benchmark-mri-foundation-models
+Anonymized Repository of [![benchmark-mri-foundation-models](https://img.shields.io/badge/benchmark--mri--foundation--models-Open%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/rlbachen/benchmark-mri-foundation-models)
